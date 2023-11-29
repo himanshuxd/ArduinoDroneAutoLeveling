@@ -18,3 +18,12 @@ This repository contains the source code and documentation for an Auto Leveling 
 ## Software Requirements
 
 - Arduino IDE
+
+## Acknowledgements
+This project draws inspiration from Joop Brooking's extensive [YMFC-AL project](http://www.brokking.net/ymfc-al_main.html). We appreciate the groundwork laid by the original project. This repository holds the modified and tweaked code with new parameters which was able to have a custom built drone operate in a stable manner.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please feel free to fork and develop.
+
+## License
+This project is licensed under the MIT License, granting you the freedom to use, modify, and distribute the code. Although no warranty is provided either direct or implied, so use the code at your own risk.
